@@ -1,0 +1,6 @@
+{
+    "rpchost": "127.0.0.1",
+    "rpcport": 9335,
+    "rpcuser": "testnet",
+    "rpcpassword": "testnet"
+}
